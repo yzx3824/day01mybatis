@@ -1,0 +1,13 @@
+.idea
+target
+*.pdf
+axis.log
+day01mybatis.iml
+day01mybatis_01/target
+day01mybatis_01/*.iml
+day01mybatis_02annotation/target
+day01mybatis_02annotation/*.iml
+day01mybatis_03dao/target
+day01mybatis_03dao/*.iml
+day01mybatis_04design/target
+day01mybatis_04design/*.iml
